@@ -1,4 +1,4 @@
-//Print the largest (maximum) hourglass sum found 
+//Print the largest (maximum) hourglass sum found in a 4 by 4 2d array
 
 def scan = new Scanner(System.in)
 def grid = []
